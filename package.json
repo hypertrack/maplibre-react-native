@@ -22,7 +22,6 @@
   },
   "scripts": {
     "fetch:style:spec": "./scripts/download-style-spec.sh",
-    "generate": "yarn node ./scripts/autogenerate",
     "test": "npm run lint && npm run unittest",
     "unittest": "jest",
     "unittest:single": "jest --testNamePattern",
@@ -111,7 +110,6 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged && npm run generate"
     }
   },
   "lint-staged": {

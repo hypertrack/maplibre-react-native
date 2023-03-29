@@ -1,3 +1,5 @@
+.yarn
+
 # Xcode
 !**/*.xcodeproj
 !**/*.pbxproj
