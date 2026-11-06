@@ -4078,7 +4078,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["camelcase", "npm:5.3.1"],\
             ["find-up", "npm:4.1.0"],\
             ["get-package-type", "npm:0.1.0"],\
-            ["js-yaml", "npm:3.14.1"],\
+            ["js-yaml", "npm:3.15.2"],\
             ["resolve-from", "npm:5.0.0"]\
           ],\
           "linkType": "HARD"\
@@ -4697,7 +4697,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chalk", "npm:4.1.2"],\
             ["execa", "npm:1.0.0"],\
             ["glob", "npm:7.2.3"],\
-            ["js-yaml", "npm:3.14.1"],\
+            ["js-yaml", "npm:3.15.2"],\
             ["lodash", "npm:4.17.21"],\
             ["ora", "npm:5.4.1"],\
             ["plist", "npm:3.0.6"],\
@@ -7808,7 +7808,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["cosmiconfig", "npm:5.2.1"],\
             ["import-fresh", "npm:2.0.0"],\
             ["is-directory", "npm:0.3.1"],\
-            ["js-yaml", "npm:3.14.1"],\
+            ["js-yaml", "npm:3.15.2"],\
             ["parse-json", "npm:4.0.0"]\
           ],\
           "linkType": "HARD"\
@@ -12337,10 +12337,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["js-yaml", [\
-        ["npm:3.14.1", {\
-          "packageLocation": "./.yarn/cache/js-yaml-npm-3.14.1-b968c6095e-bef146085f.zip/node_modules/js-yaml/",\
+        ["npm:3.15.2", {\
+          "packageLocation": "./.yarn/cache/js-yaml-npm-3.15.2-ed3413b0f7-774d62285f.zip/node_modules/js-yaml/",\
           "packageDependencies": [\
-            ["js-yaml", "npm:3.14.1"],\
+            ["js-yaml", "npm:3.15.2"],\
             ["argparse", "npm:1.0.10"],\
             ["esprima", "npm:4.0.1"]\
           ],\
