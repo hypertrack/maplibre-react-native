@@ -4606,7 +4606,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fs-extra", "npm:8.1.0"],\
             ["glob", "npm:7.2.3"],\
             ["graceful-fs", "npm:4.2.10"],\
-            ["joi", "npm:17.7.0"],\
+            ["joi", "npm:17.13.9"],\
             ["leven", "npm:3.1.0"],\
             ["lodash", "npm:4.17.21"],\
             ["minimist", "npm:1.2.7"],\
@@ -4869,10 +4869,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@sideway/address", [\
-        ["npm:4.1.4", {\
-          "packageLocation": "./.yarn/cache/@sideway-address-npm-4.1.4-32f94bc9f5-b9fca2a93a.zip/node_modules/@sideway/address/",\
+        ["npm:4.1.5", {\
+          "packageLocation": "./.yarn/cache/@sideway-address-npm-4.1.5-a3852745c8-3e3ea0f00b.zip/node_modules/@sideway/address/",\
           "packageDependencies": [\
-            ["@sideway/address", "npm:4.1.4"],\
+            ["@sideway/address", "npm:4.1.5"],\
             ["@hapi/hoek", "npm:9.3.0"]\
           ],\
           "linkType": "HARD"\
@@ -12305,13 +12305,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["joi", [\
-        ["npm:17.7.0", {\
-          "packageLocation": "./.yarn/cache/joi-npm-17.7.0-24cbaab83c-767a847936.zip/node_modules/joi/",\
+        ["npm:17.13.9", {\
+          "packageLocation": "./.yarn/cache/joi-npm-17.13.9-0c60e283b0-4beeaa7e3b.zip/node_modules/joi/",\
           "packageDependencies": [\
-            ["joi", "npm:17.7.0"],\
+            ["joi", "npm:17.13.9"],\
             ["@hapi/hoek", "npm:9.3.0"],\
             ["@hapi/topo", "npm:5.1.0"],\
-            ["@sideway/address", "npm:4.1.4"],\
+            ["@sideway/address", "npm:4.1.5"],\
             ["@sideway/formula", "npm:3.0.1"],\
             ["@sideway/pinpoint", "npm:2.0.0"]\
           ],\
